@@ -1,0 +1,22 @@
+{
+  "name": "lab5-campusflow-241839",
+  "version": "1.0.0",
+  "description": "FSWD Lab 5 - Advanced JavaScript (CampusFlow core logic in Node.js)",
+  "type": "module",
+  "author": "Taimur Sajid (241839)",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "task1": "node task1/run.js",
+    "task2": "node task2/run.js",
+    "task3": "node task3/run.js",
+    "task4": "node task4/run.js",
+    "task5": "node task5/main.js",
+    "task6": "node task6/run.js",
+    "task7": "node task7/run.js",
+    "task8": "node task8/run.js",
+    "test": "node --test test/"
+  }
+}
